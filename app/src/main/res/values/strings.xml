@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubRepoSearch</string>
+    <string name="search_menu">Search</string>
+    <string name="search_github">Search Github</string>
+    <string name="search_repositories">Search repositories</string>
+    <string name="subscribers_count">Subscribers: %1$d</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="material_elevation_radius">2dp</dimen>
+    <dimen name="spacer_4dp">4dp</dimen>
+    <dimen name="spacer_8dp">8dp</dimen>
+    <dimen name="spacer_12dp">12dp</dimen>
+    <dimen name="spacer_16dp">16dp</dimen>
+    <dimen name="spacer_24dp">24dp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="spacer_1dp">1dp</dimen>
+    <dimen name="spacer_32dp">32dp</dimen>
+    <dimen name="image_side_size">100dp</dimen>
+</resources>
